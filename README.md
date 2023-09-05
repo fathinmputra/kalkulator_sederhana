@@ -1,8 +1,3 @@
-
-
-Kelas : PBKK A
-Tahun : 2023
-
 **<br>Nama : Fathin Muhashibi Putra**
 **<br>NRP : 5025211229**
 **<br>Kelas : PBKK A**
